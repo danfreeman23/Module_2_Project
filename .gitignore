@@ -1,0 +1,44 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Logs
+*.log
+logs/
+
+# Data files (если большие)
+*.csv
+*.json
+*.xlsx
+data/
+dataset/
+
+# Временные файлы
+temp/
+tmp/
