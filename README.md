@@ -36,5 +36,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/yandex-afisha-loyalty-analysis.git
+git clone https://github.com/danfreeman23/Module_2_Project.git
 cd yandex-afisha-loyalty-analysis
